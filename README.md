@@ -33,15 +33,16 @@ A cross-platform note-taking application for students, built with Flutter. It le
 
 ## Screenshots
 
-_Screenshots coming soon._
-
-<!--
-Add images to a docs/screenshots folder and reference them here:
 <p align="center">
-  <img src="docs/screenshots/home.png" width="250" />
-  <img src="docs/screenshots/editor.png" width="250" />
+  <img src="docs/screenshots/ss%20(1).jpeg" width="250" alt="Screenshot 1" />
+  <img src="docs/screenshots/ss%20(2).jpeg" width="250" alt="Screenshot 2" />
+  <img src="docs/screenshots/ss%20(3).jpeg" width="250" alt="Screenshot 3" />
 </p>
--->
+
+<p align="center">
+  <img src="docs/screenshots/ss%20(4).jpeg" width="250" alt="Screenshot 4" />
+  <img src="docs/screenshots/ss%20(5).jpeg" width="250" alt="Screenshot 5" />
+</p>
 
 ## Tech Stack
 
@@ -139,7 +140,8 @@ flutter analyze
 
 ## Roadmap
 
-- [ ] Add screenshots and a short demo to this README
+- [x] Add screenshots to this README
+- [ ] Add a short demo video or GIF
 - [ ] Note search and organization (folders or tags)
 - [ ] Cloud backup and sync
 - [ ] Reminders for study tasks
